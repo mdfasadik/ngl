@@ -1,0 +1,15 @@
+
+.container{
+  width: 100%;
+  min-height: 60px;
+  padding: 10rem;
+  background: rgb(241, 51, 101);
+    background: linear-gradient(180deg, rgba(241, 51, 101, 1) 0%, rgba(255, 217, 0, 1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.start-btn{
+  padding: 2rem 1rem;
+}
